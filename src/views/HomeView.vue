@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '@/components/TheWelcome.vue'
+import CalendarIframe from '@/components/CalendarIframe.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <CalendarIframe />
   </main>
 </template>
