@@ -1,6 +1,7 @@
 {
   "name": "iasd-pi",
   "version": "0.0.0",
+  "nodeVersion": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
