@@ -3,8 +3,8 @@
 </script>
 <template>
   <div class="iframe-container">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&mode=MONTH&showPrint=0&showTabs=1&showDate=1&showNav=1&showCalendars=0&showTz=1&title=IASD%20Parada%20Inglesa&src=MmYwMTBjNjUyOTExNDgzZGJmZDQ0MmM3MzIxOTAzMTNmZDQ4YzcyNzcxMTRmNzFkNDIyYzEyNDFiODg0YTcwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AAhttps://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&hl=pt_BR&showPrint=0&src=MmYwMTBjNjUyOTExNDgzZGJmZDQ0MmM3MzIxOTAzMTNmZDQ4YzcyNzcxMTRmNzFkNDIyYzEyNDFiODg0YTcwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
-      style="border-width:0" 
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTabs=1&showPrint=0&hl=pt_BR&src=MmYwMTBjNjUyOTExNDgzZGJmZDQ0MmM3MzIxOTAzMTNmZDQ4YzcyNzcxMTRmNzFkNDIyYzEyNDFiODg0YTcwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA" 
+      style="border:solid 1px #777" 
       width="800" 
       height="600" 
       frameborder="0" 
