@@ -2,6 +2,7 @@
   "name": "iasd-pi",
   "version": "0.0.0",
   "nodeVersion": "",
+  "colorPalleteLink": "https://colors.muz.li/palette/043464/04346c/043c6c/043c74/083464",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +14,7 @@
     "vue-router": "^3.5.4"
   },
   "devDependencies": {
+    "@iconify/vue2": "^2.1.0",
     "@rushstack/eslint-patch": "^1.1.0",
     "@vitejs/plugin-legacy": "^2.0.0",
     "@vitejs/plugin-vue2": "^1.1.2",
