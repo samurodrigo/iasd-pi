@@ -37,6 +37,7 @@
     align-items: center;
     color: white;
     text-decoration: none;
+    font-weight: bold;
   }
 
   .menu-container img{
