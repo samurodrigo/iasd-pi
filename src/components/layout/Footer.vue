@@ -30,8 +30,6 @@
     color: white;
     background-color:#dae1e8;
     padding: 20px;
-    position:absolute;
-    bottom:0;
     width: 100%;
     box-sizing: border-box;
     margin-top: auto;
